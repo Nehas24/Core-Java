@@ -18,4 +18,3 @@ public class Private {		//It Can be access within class only
 
 }
 
-}
